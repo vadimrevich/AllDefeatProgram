@@ -15,7 +15,7 @@
 - Клонируйте исходный код данного репозитория.
 - Определитесь с доменным именем Вашего сайта в Интернете (например, *example.com*).
 - С помощью программы *Search Replace Studio* выполните замену во всех файлах во всех подкаталогах папки `DefenderDefeat` строки *file.netip4.ru* на *example.com*.
-- Выполните аналогичную замену для доменов *win.netip4.ru*, *clients.cxzbrk.xyz*, *documents.netip4.ru*, *reverse.netip4.ru*, *main.nitsar.ru.net*, если это необходимо.
+- Выполните аналогичную замену для доменов *win.netip4.ru*, *distrib.nitsar.ru.net*, *documents.netip4.ru*, *reverse.netip4.ru*, *main.nitsar.ru.net*, если это необходимо.
 - В каталоге `DefenderDefeat` скопируйте файл `DefenderDefeat.zip.bin` в `DefenderDefeat.zip`и распакуйте его в текущий каталог.
 - Подготовительные действия по клонированию репозитория завершены.
 
